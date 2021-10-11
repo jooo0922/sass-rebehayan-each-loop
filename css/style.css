@@ -7,3 +7,12 @@
 .ico_phone {
   background: url(../images/phone.png) no-repeat;
 }
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 20px;
+}
+h3 {
+  font-size: 15px;
+}
